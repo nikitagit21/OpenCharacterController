@@ -1,0 +1,16 @@
+{
+    "name": "OpenCharacterController.Editor",
+    "rootNamespace": "OpenCharacterController.Editor",
+    "references": [
+        "GUID:724e92891ec7b4f40b2c9a7d4cae52f5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

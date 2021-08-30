@@ -1,0 +1,20 @@
+Thumbs.db
+.DS_Store
+
+/.idea/
+/.vs/
+/.vsconfig
+/.vscode/
+/Library/
+/Logs/
+/UserSettings/
+/obj/
+/Temp/
+
+*.csproj
+*.sln
+
+# Probuilder/ProGrids save local settings to the packages folder which
+# isn't super great for source control. :(
+/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+/ProjectSettings/Packages/com.unity.progrids/Settings.json
