@@ -1,0 +1,17 @@
+{
+    "name": "OpenCharacterController.Examples",
+    "rootNamespace": "OpenCharacterController.Examples",
+    "references": [
+        "GUID:724e92891ec7b4f40b2c9a7d4cae52f5",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
